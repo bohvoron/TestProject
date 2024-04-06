@@ -1,0 +1,16 @@
+{
+    "name": "treeTestProject",
+    "version": "1.0.0",
+    "description": "tests for GitHub Actions",
+    "main": "Test.js",
+    "scripts": {
+      "test": "playwright test"
+    },
+    "keywords": [],
+    "author": "Me Bohdan Voronov",
+    "license": "ISC",
+    "dependencies": {
+      "@playwright/test": "^1.42.1"
+    }
+  }
+  
